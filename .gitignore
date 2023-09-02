@@ -1,2 +1,2 @@
 .pio
-./src/Main.cpp
+src/Main.cpp
